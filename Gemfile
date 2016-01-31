@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem "haml-rails", "~> 0.9"
 gem "paperclip", "~> 4.3"
 gem 'simple_form'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'byebug'
